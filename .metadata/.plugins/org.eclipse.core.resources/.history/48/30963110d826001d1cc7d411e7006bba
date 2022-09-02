@@ -1,0 +1,17 @@
+
+public class Aplicacao {
+	
+	public static void main(String[] args) {
+		Carro c = new Carro();
+		c.buzinar();
+		
+		Motocicleta m = new Motocicleta();
+		m.buzinar();
+		m.empinar();
+		
+		Caminhao cam = new Caminhao();
+		cam.buzinar();
+		
+	}
+
+}

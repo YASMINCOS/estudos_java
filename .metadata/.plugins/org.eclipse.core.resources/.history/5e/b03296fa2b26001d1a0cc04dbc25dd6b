@@ -1,0 +1,11 @@
+
+public class Apicacao {
+
+	public static void main(String[] args) {
+		Matematica m = new Matematica ();
+		
+		int soma = m.somar(10, 10)
+				
+		System.out.println(soma);
+	}
+}

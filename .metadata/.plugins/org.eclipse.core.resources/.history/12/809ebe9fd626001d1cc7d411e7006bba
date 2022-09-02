@@ -1,0 +1,16 @@
+
+public class Aplicacao {
+	
+	public static void main(String[] args) {
+		Carro v= new Carro();
+		
+		
+		v.setMarca("aaa");
+		v.setAno(1209);
+		v.setModelo("aaa");
+		v.imprimirDados();
+		v.buzinar();
+		
+	}
+
+}

@@ -1,0 +1,12 @@
+
+public class Aplicacao {
+	
+	public static void main(String[] args) {
+		Veiculo v= new Veiculo();
+		
+		v.imprimirDados();
+		v.buzinar();
+		
+	}
+
+}

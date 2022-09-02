@@ -1,0 +1,12 @@
+
+public interface Aplicacao {
+
+	public static void main(String[] args) {
+		ContaBancaria c = new ContaBancaria();
+		 c.setNumConta=(54334);
+		 c.setAtiva=(true);
+		 c.setSaldo= (4000);
+		 
+		
+		}
+}

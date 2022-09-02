@@ -1,0 +1,13 @@
+
+public class Aplicacao {
+
+	public static void main(String[] args) {
+		
+		Matematica m = new Matematica();
+		int soma = m.somar(10, 3);
+		int subtracao=m.subtrair(2,8);
+		
+		System.out.println(soma);
+		System.out.println(subtracao);
+	}
+}

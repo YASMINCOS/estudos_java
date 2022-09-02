@@ -1,0 +1,11 @@
+package curso.banco;
+
+public abstract class Conta {
+	
+	private double saldo;
+	
+	public void sacar(double valor);
+	
+	public void depositar(double valor);
+
+}

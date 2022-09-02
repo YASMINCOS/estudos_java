@@ -1,0 +1,11 @@
+
+public class Aplicacao {
+	public static void main(String[] args) {
+		
+		
+		quadrado q= new quadrado(6);
+		System.out.println(q.calculo());
+		System.out.println(q);
+	}
+
+}

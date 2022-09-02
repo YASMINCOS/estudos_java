@@ -1,0 +1,11 @@
+package curso.banco;
+
+public class Aplicacao {
+
+	public static void main(String[] args) {
+		
+		ContaCorrente c1= new ContaCorrente();
+		c1.depositar(1000);
+		c1.sacar(200);
+	}
+}

@@ -1,0 +1,16 @@
+
+public class Casting {
+	
+	public static void main(String[]args) {
+		
+		//implicito long x=10;
+	    
+		double x = 35;
+		
+		System.out.println(x);
+		
+		
+	}
+	
+
+}

@@ -1,0 +1,13 @@
+
+public class Aplicacao {
+	
+	public static void main(String[] args) {
+		
+		
+		Pessoa p1=new Pessoa();
+		p1.nome="José";
+		
+		System.out.println(p1.nome + " => "+ p1.numFigurinhas);
+	}
+
+}

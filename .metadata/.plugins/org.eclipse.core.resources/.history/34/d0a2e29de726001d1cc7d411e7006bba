@@ -1,0 +1,7 @@
+
+public class Automovel {
+	
+	void acelerar();
+	void frear();
+
+}

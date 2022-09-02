@@ -1,0 +1,13 @@
+
+public class Aplicacao {
+	
+	
+	public static void main(String[] args) {
+	    Animal a = new Cachorro();
+		
+	    
+	    Cachorro c = (Cachorro)a;
+	    c.morder();
+	}
+
+}

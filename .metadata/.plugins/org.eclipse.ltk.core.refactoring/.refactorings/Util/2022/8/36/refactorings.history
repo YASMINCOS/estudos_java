@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;StringUtils.java&apos; to &apos;Util/src/tiyas.util&apos;&#x0D;&#x0A;- Original project: &apos;Util&apos;&#x0D;&#x0A;- Destination element: &apos;Util/src/tiyas.util&apos;&#x0D;&#x0A;- Original element: &apos;StringUtils.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;tiyas.util" element1="/src&lt;{StringUtils.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1661967934035" units="1" version="1.0"/>
+</session>

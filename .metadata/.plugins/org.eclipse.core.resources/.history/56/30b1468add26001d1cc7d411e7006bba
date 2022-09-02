@@ -1,0 +1,17 @@
+
+public class Aplicacao {
+	
+	
+	public static void main(String[] args) {
+	    Animal a = new Cachorro();
+		
+	    
+	    if ( a instanceof Cachorro) {
+	    	Cachorro c = (Cachorro)a;
+	  	    c.morder();
+	    }
+	    
+	  
+	}
+
+}

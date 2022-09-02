@@ -1,0 +1,11 @@
+
+public class Item {
+	
+	private int psX;
+	private int psy;
+	
+	public void pegar() {
+		
+	}
+
+}

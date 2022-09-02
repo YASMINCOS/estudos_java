@@ -1,0 +1,7 @@
+
+public class Carro  extends Veiculo {
+
+	public Carro() {
+		System.out.println("Carro()");
+	}
+}

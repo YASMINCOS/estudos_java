@@ -1,0 +1,17 @@
+
+public class Retangulo {
+	
+	private double largura;
+	private double altura;
+	
+	public Retangulo() {
+		largura=4;
+		altura=3;
+	}
+	
+	public double calcular() {
+		return largura * altura;
+	}
+	
+
+}

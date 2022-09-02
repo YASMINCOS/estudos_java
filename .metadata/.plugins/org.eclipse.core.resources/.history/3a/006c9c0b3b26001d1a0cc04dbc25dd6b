@@ -1,0 +1,16 @@
+
+public class quadrado {
+	
+	private double lado;
+	
+	public quadrado(double lado) {
+		this.lado=lado;
+	}
+	public double calculo() {
+		return lado *lado;
+	}
+	public void setLado(double lado) {
+		this.lado=lado;
+	}
+
+}

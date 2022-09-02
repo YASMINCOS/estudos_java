@@ -1,0 +1,23 @@
+
+public class Aplicacao {
+	
+	public static void main(String[] args) {
+		Carro c = new Carro();
+		c.buzinar();
+		c.setMarca("XYZ");
+		c.setModelo("ABC");
+		c.setQuatroPortas(true);
+		c.setAno(2000);
+		c.imprimirDados();
+		
+		Motocicleta m = new Motocicleta();
+		m.buzinar();
+		m.empinar();
+		m.imprimirDados();
+		
+		Caminhao cam = new Caminhao();
+		cam.buzinar();
+		
+	}
+
+}

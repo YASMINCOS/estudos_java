@@ -1,0 +1,25 @@
+
+public class Ferrari implements Automavel {
+
+	@Override
+	public void virarE() {
+		System.out.println("Viroue Esquerda");
+		
+	}
+
+	@Override
+	public void virarD() {
+ 
+		System.out.println("Virou direita");
+	}
+
+	@Override
+	public void acelerar() {
+ 
+		
+		System.out.println("Acewlerou");
+	}
+	
+	
+
+}
